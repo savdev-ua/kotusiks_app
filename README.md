@@ -1,6 +1,6 @@
 # Flutter Cat Facts
 
-This project is a Flutter application that uses different technologies and techniques to provide an engaging, informative, and fun user experience. The app fetches interesting cat facts from [CatFact Ninja](https://catfact.ninja/fact) and presents them alongside images sourced from [Cat as a Service (CATAAS)](https://cataas.com/cat). All cat facts are stored locally on the device using Hive DB.
+This project is a Flutter application that uses different technologies and techniques to provide an engaging, informative, and fun user experience. The app fetches interesting cat facts from [CatFact Ninja](https://catfact.ninja/fact) and presents them alongside images sourced from [Cat as a Service (CATAAS)](https://cataas.com/cat). All liked cat facts are stored locally on the device using Hive DB.
 
 https://github.com/savdev-ua/kotusiks_app/assets/62287261/eecd84e6-7cbf-4a4d-9574-47200de7c00e
 
@@ -9,7 +9,7 @@ https://github.com/savdev-ua/kotusiks_app/assets/62287261/eecd84e6-7cbf-4a4d-957
 - Displaying random cat images from CATAAS
 - Storing cat facts locally using Hive DB for offline access
 
-**Note:** The CatFact Ninja API does not provide a creation date for the facts. To mitigate this, we're generating a random date for each fact to simulate a timeline of creation.
+**Note:** The CatFact Ninja API does not provide a creation date for the facts. To mitigate this, I'm generating a random date for each fact to simulate a timeline of creation.
 
 ## Tech Stack
 
